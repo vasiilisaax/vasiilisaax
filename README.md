@@ -1,7 +1,31 @@
-# hello everyone
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://img.goodfon.ru/wallpaper/nbig/7/e5/svetlyy-kotenok.webp>
- <source media="(prefers-color-scheme: light)" srcset="https://img.goodfon.ru/wallpaper/nbig/7/e5/svetlyy-kotenok.webp">
- <img alt="YOUR-ALT-TEXT" src="https://img.goodfon.ru/wallpaper/nbig/7/e5/svetlyy-kotenok.webp">
-</picture>
-Владею HTML, CS, JavaScript (ES6+). Понимаю, как устроен HTTP-протокол и как браузер взаимодействует с сервером. Уверенно пишу на [Python/Go/PHP/Java], работаю с базами данных, понимаю REST API. Использую Git для контроля версий. Создал учебный проект. Хочу развиваться в создании веб-сервисов и найти стажировку, где смогу применить эти навыки.
+<div align="center">
+  <h1>Привет! Я [Твоё Имя] 👋</h1>
+  <h3>Frontend / Backend / Fullstack разработчик</h3>
+</div>
+
+---
+
+### 👨‍💻 Обо мне
+- 🔭 Сейчас работаю над **[Название проекта]**
+- 🌱 Изучаю **TypeScript, Docker и микросервисы**
+- 💬 Спрашивайте меня о **React, Python и базах данных**
+- 📫 Как со мной связаться: **[Telegram](https://t.me)** или **email@example.com**
+
+---
+
+### 🛠 Мой стек технологий
+<p align="left">
+  <img src="https://jsdelivr.net" alt="python" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="react" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="docker" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 Статистика GitHub
+<div align="center">
+  <img src="https://vercel.app" alt="Статистика" height="170" />
+  <img src="https://vercel.app" alt="Топ языков" height="170" />
+</div>
