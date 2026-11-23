@@ -13,7 +13,7 @@
 [![VK](https://shields.io)](vk.com/id756701331)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/<vasilisaax>/<vasilisaax>/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/<vasilisaax>/<vasilisaax>/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github-contribution-grid-snake" src="https://github.com/<vasilisaax>/<vasilisaax>/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vasiliisaax/vasiliisaax/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vasiliisaax/vasiliisaax/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github-contribution-grid-snake" src="https://github.com/vasiliisaax/vasiliisaax/blob/output/github-contribution-grid-snake.svg">
 </picture>
