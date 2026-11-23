@@ -9,7 +9,7 @@
 - 🔭 Сейчас работаю над **[Разработкой сайтов и игр]**
 - 🌱 Изучаю **TypeScript, Git и GitHub, Linux и работу с терминалом**
 
-[![Telegram](https://shields.io)](https://t.me)
-[![VK](https://shields.io)](https://vk.com)
+[![Telegram](https://shields.io)](https://t.me/ilsved)
+[![VK](https://shields.io)](vk.com/id756701331)
 
   
