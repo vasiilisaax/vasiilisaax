@@ -9,8 +9,8 @@
 - 🔭 Сейчас работаю над **[Разработкой сайтов и игр]**
 - 🌱 Изучаю **TypeScript, Git и GitHub, Linux и работу с терминалом**
 
-[![Telegram](https://shields.io)](https://t.me/ilsved)
-[![VK](https://shields.io)](vk.com/id756701331)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilsved)
+[![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id756701331)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vasiliisaax/vasiliisaax/blob/output/github-contribution-grid-snake-dark.svg">
