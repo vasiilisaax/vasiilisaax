@@ -8,5 +8,8 @@
 ### 👨‍💻 Обо мне
 - 🔭 Сейчас работаю над **[Разработкой сайтов и игр]**
 - 🌱 Изучаю **TypeScript, Git и GitHub, Linux и работу с терминалом**
-- 📫 Как со мной связаться: **[Telegramm](@ilsved)** 
+
+[![Telegram](https://shields.io)](https://t.me)
+[![VK](https://shields.io)](https://vk.com)
+
   
