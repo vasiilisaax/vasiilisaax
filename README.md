@@ -10,6 +10,6 @@
 - 🌱 Изучаю **TypeScript, Git и GitHub, Linux и работу с терминалом**
 
 [![Telegram](https://shields.io)](https://t.me/ilsved)
-[![VK](https://shields.io)](vk.com/id756701331)
+[![VK](https://shields.io)](ЯВКонтакте:vk.com/id756701331)
 
   
