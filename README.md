@@ -12,4 +12,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilsved)
 [![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id756701331)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vasiliisaax&show_icons=true&theme=radical)
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username=vasiliisaax&show_icons=true&theme=radical)
