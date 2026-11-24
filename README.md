@@ -27,3 +27,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilsved)
 [![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id756701331)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+### 🚀 Сейчас работаю над
+![Working on](https://img.shields.io/badge/Working_on-Сайты_и_игры-blue?style=for-the-badge)
+
+### 📚 Сейчас изучаю
+![Learning](https://img.shields.io/badge/Learning-TypeScript-orange?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Linux-yellow?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-GitHub-green?style=for-the-badge)
