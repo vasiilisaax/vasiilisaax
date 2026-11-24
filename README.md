@@ -3,7 +3,7 @@
 # Привет! Я Василиса 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 </p>
 
 ### Frontend / Backend / Fullstack разработчик
