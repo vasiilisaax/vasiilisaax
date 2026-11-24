@@ -2,6 +2,10 @@
 
 # Привет! Я Василиса 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
 ### Frontend / Backend / Fullstack разработчик
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilsved)
